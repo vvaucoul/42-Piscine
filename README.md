@@ -22,10 +22,10 @@
 
 ### Exams
 
-- Exam00 2 years ago 95
-- Exam01 2 years ago 0
-- Exam02 2 years ago 48
-- Exam Final 2 years ago 40
+- Exam00 95
+- Exam01 0
+- Exam02 48
+- Exam Final 40
 
 ### Autres projets
 
