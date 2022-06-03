@@ -1,0 +1,1 @@
+cat Annuaire.txt | grep -i "nicolas" | grep -i "bauer" | sed "/Bomber/D"
